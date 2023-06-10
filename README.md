@@ -2,7 +2,7 @@
 # Requirements
 python 3.7 + pytorch 1.9.0
 # Saliency maps
-
+SEINet_EfficientNetB7_ORSI-4199 saliency maps: (https://pan.baidu.com/s/1_3I-vXo91Mmd3Qp5FDobPw) (code:SEIN)
 # Training
 Run train_SEINet.py.
 # Pre-trained model and testing
