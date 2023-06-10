@@ -15,7 +15,8 @@ SEINet_VGG16_ORSI-4199 saliency maps: [Baidu](https://pan.baidu.com/s/1YTN2mrnhZ
 SEINet_VGG16_EORSSD saliency maps: [Baidu](https://pan.baidu.com/s/1bbsd4MPbCRsq8wr2D9o-yA) (code:SEIN)  
 SEINet_VGG16_ORSSD saliency maps: [Baidu](https://pan.baidu.com/s/115xLxnxZWyWc6Q_mWLflpQ) (code:SEIN)  
 # Training
-Run train_SEINet.py.
+Run train_SEINet.py.  
+For SEINet_VGG16, please modify paths of [VGG backbone](https://pan.baidu.com/s/1YBvqCHS-Y1JVIaW_rpSgLw) (code: SEIN) in /model/vgg.py.
 # Pre-trained model and testing
 Download the following pre-trained model and put them in ./models/, then run test_SEINet.py.  
 [SEINet_EfficientNetB7_ORSI-4199](https://pan.baidu.com/s/11yJu1QsrbOFgfdoe8biYfg) (code:SEIN)   
