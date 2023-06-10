@@ -3,7 +3,17 @@
 python 3.7 + pytorch 1.9.0
 # Saliency maps
 SEINet_EfficientNetB7_ORSI-4199 saliency maps: [Baidu](https://pan.baidu.com/s/1_3I-vXo91Mmd3Qp5FDobPw) (code:SEIN)  
-SEINet_EfficientNetB7_EORSSD saliency maps: [Baidu](https://pan.baidu.com/s/1uiUu0TUS1hVXePrTlm9oEA) (code:SEIN)
+SEINet_EfficientNetB7_EORSSD saliency maps: [Baidu](https://pan.baidu.com/s/1uiUu0TUS1hVXePrTlm9oEA) (code:SEIN)  
+SEINet_EfficientNetB7_ORSSD saliency maps: [Baidu](https://pan.baidu.com/s/1PAabKvibGUEHaOgaoTf8Sw) (code:SEIN)  
+SEINet_Res2Net50_ORSI-4199 saliency maps: [Baidu](https://pan.baidu.com/s/1ON6iDVAJpp1w6w9YZltGAw) (code:SEIN)  
+SEINet_Res2Net50_EORSSD saliency maps: [Baidu](https://pan.baidu.com/s/12VCZsm3eLBw_9a7JTrDJbQ) (code:SEIN)  
+SEINet_Res2Net50_ORSSD saliency maps: [Baidu](https://pan.baidu.com/s/1Nn6NpebLVpWLyt2jvXiJYg) (code:SEIN)  
+SEINet_ResNet50_ORSI-4199 saliency maps: [Baidu](https://pan.baidu.com/s/1zyY-zeyeLwVIoFaxBKzdMw) (code:SEIN)  
+SEINet_ResNet50_EORSSD saliency maps: [Baidu](https://pan.baidu.com/s/1XkoyZv_bqc3l__tvYRdmiA) (code:SEIN)  
+SEINet_ResNet50_ORSSD saliency maps: [Baidu](https://pan.baidu.com/s/1GVtjELIvfQEtag-y0em1Qw) (code:SEIN)  
+SEINet_VGG16_ORSI-4199 saliency maps: [Baidu](https://pan.baidu.com/s/1YTN2mrnhZaX4Q35GmWVg9g) (code:SEIN)  
+SEINet_VGG16_EORSSD saliency maps: [Baidu](https://pan.baidu.com/s/1bbsd4MPbCRsq8wr2D9o-yA) (code:SEIN)  
+SEINet_VGG16_ORSSD saliency maps: [Baidu](https://pan.baidu.com/s/115xLxnxZWyWc6Q_mWLflpQ) (code:SEIN)  
 # Training
 Run train_SEINet.py.
 # Pre-trained model and testing
