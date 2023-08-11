@@ -2,7 +2,7 @@
 This project provides the code and results for 'Semantic-Edge Interactive Network for Salient Object Detection in Optical Remote Sensing Images', IEEE JSTARS, 2023.
 [IEEE link](https://ieeexplore.ieee.org/document/10192474)
 # Network Architecture
-[iamge](https://github.com/LiangBoCheng/SEINet/blob/main/models/fig1.png)
+![image text](https://github.com/LiangBoCheng/SEINet/blob/main/models/fig1.png)
 # Requirements
 python 3.7 + pytorch 1.9.0
 # Saliency maps
