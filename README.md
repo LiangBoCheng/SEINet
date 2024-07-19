@@ -37,3 +37,5 @@ Download the following pre-trained model and put them in ./models/, then run tes
 [SEINet_VGG16_ORSSD](https://pan.baidu.com/s/1mgZyXTFFmBzNbZt4V7g3Ww) (code:SEIN)  
 # Evaluation Tool
 You can use the [evaluation tool (MATLAB version)](https://github.com/MathLee/MatlabEvaluationTools) to evaluate the above saliency maps.
+# Acknowledgement
+We would like to thank the contributors to the [MCCNet](https://github.com/MathLee/MCCNet).
