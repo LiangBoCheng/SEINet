@@ -4,7 +4,7 @@ This project provides the code and results for 'Semantic-Edge Interactive Networ
 # Network Architecture
 ![image text](https://github.com/LiangBoCheng/SEINet/blob/main/models/fig1.png)
 # Requirements
-python 3.7 + pytorch 1.9.0
+python 3.7 + pytorch 1.9.0 + imageio 2.22.2
 # Saliency maps
 SEINet_EfficientNetB7_ORSI-4199 saliency maps: [Baidu](https://pan.baidu.com/s/1_3I-vXo91Mmd3Qp5FDobPw) (code:SEIN)  
 SEINet_EfficientNetB7_EORSSD saliency maps: [Baidu](https://pan.baidu.com/s/1uiUu0TUS1hVXePrTlm9oEA) (code:SEIN)  
